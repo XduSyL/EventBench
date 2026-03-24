@@ -67,6 +67,15 @@ python inference_eventgpt_plus.py \
     --query "How does the child move across the tiled floor?"
 ```
 
+## Roadmap
+
+- 🔜 **Coming Soon**: Task-specific evaluation scripts
+- 🚀 **Mar 2026**: Codebase released
+- 📦 **Nov 2025**: EventGPT-Plus-2B model released
+- 📊 **Nov 2025**: EventBench benchmark dataset released
+- 📄 **Nov 2025**: Paper released on arXiv
+
+
 ## Citation
 
 If you use EventBench in your research, please cite:
