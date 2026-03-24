@@ -2,6 +2,7 @@
 
 EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs
 
+
 ## Model & Dataset
 
 - **Model**: Download from [EventGPT-Plus-2B](https://huggingface.co/XduSyL/EventGPT-Plus-2B)
@@ -62,4 +63,17 @@ python inference_eventgpt_plus.py \
     --event_data /path/to/event_data.npz \
     --event_size_cfg /path/to/event_size_type.yaml \
     --query "How does the child move across the tiled floor?"
+```
+
+## Citation
+
+If you use EventBench in your research, please cite:
+
+```bibtex
+@article{liu2025eventbench,
+  title={EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs},
+  author={Liu, Shaoyu and Li, Jianing and Zhao, Guanghui and Zhang, Yunjian and Ji, Xiangyang},
+  journal={arXiv preprint arXiv:2511.18448},
+  year={2025}
+}
 ```
