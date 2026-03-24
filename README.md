@@ -2,6 +2,8 @@
 
 EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs
 
+[[Paper](https://arxiv.org/abs/2511.18448)]
+
 
 ## Model & Dataset
 
