@@ -1,0 +1,83 @@
+data_type:
+  event_ocr:
+    ev_height: 720
+    ev_width: 1280
+
+  action_recognition:
+    ev_height: 260
+    ev_width: 346
+    
+  dsec_n_imagenet:
+    ev_height: 480
+    ev_width: 640
+
+  v2e:
+    ev_height: 240
+    ev_width: 320
+
+  action_order:
+    ev_height: 240
+    ev_width: 320
+  
+  obj_size:
+    ev_height: 240
+    ev_width: 320
+
+  rel_distance:
+    ev_height: 240
+    ev_width: 320
+  
+  abs_distance:
+    ev_height: 240
+    ev_width: 320
+
+  rel_direction:
+    ev_height: 240
+    ev_width: 320
+
+  abs_distance:
+    ev_height: 240
+    ev_width: 320
+
+  obj_counting:
+    ev_height: 240
+    ev_width: 320
+  
+  3DOD:
+    ev_height: 240
+    ev_width: 320
+  
+  ScanQA:
+    ev_height: 240
+    ev_width: 320
+
+  SQA:
+    ev_height: 240
+    ev_width: 320
+  
+  kinetics:
+    ev_height: 240
+    ev_width: 320
+
+  gesture_recognition_EB_hand:
+    ev_height: 480
+    ev_width: 640
+  
+  gesture_recognition_HWGesture:
+    ev_height: 240
+    ev_width: 320
+  
+  emotion_cls:
+    ev_height: 720
+    ev_width: 1280
+  
+  action_bullying:
+    ev_height: 260
+    ev_width: 346
+
+  casual_reasoning:
+    ev_height: 260
+    ev_width: 346
+
+
+
