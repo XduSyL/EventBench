@@ -7,6 +7,19 @@ EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs
 
 ## Model & Dataset
 
+> **⚠️ IMPORTANT: Access Request Required**
+>
+> Before downloading the model or benchmark dataset, **you must request access by email** to obtain download permissions.
+>
+> Please send an email to **liusy@stu.xidian.edu.cn** with the following information:
+>
+> - **Full Name**: Your full name
+> - **Affiliation / Institution**: Your university or organization
+> - **Laboratory or Research Group**: Your specific lab or research group
+> - **Intended Usage / Research Purpose**: Brief description of your research project
+
+---
+
 - **Model**: Download from [EventGPT-Plus-2B](https://huggingface.co/XduSyL/EventGPT-Plus-2B)
 - **Benchmark Dataset**: Download from [EventBench](https://huggingface.co/datasets/XduSyL/EventBench)
 
